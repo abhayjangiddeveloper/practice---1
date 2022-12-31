@@ -1,0 +1,31 @@
+.box_container{
+    /* border: 2px solid green; */
+    width: 17rem;
+    height: fit-content;
+    padding: 2rem;
+    background-color: white;
+    border-radius: 0.5rem;
+}
+
+
+.box_heading_and_pera .box_heading{
+    font-size: 1.2rem;
+    font-weight: 700;
+    /* border: 2px solid green; */
+    margin-top: 1.2rem;
+}
+.box_heading_and_pera .box_pera{
+    margin-top: 1.2rem;
+    /* border: 2px solid green; */
+}
+.button{
+    border: 1px solid rgba(218, 225, 245, 1);
+    width: fit-content;
+    margin-top: 4.5rem;
+    padding: 0.3rem 1rem;
+    border-radius: 2rem;
+    font-size: 1rem;
+    font-weight: 700;
+    color: rgba(84, 93, 122, 1);
+    cursor: pointer;
+}
